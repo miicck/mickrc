@@ -1,6 +1,7 @@
 "General
 set nocompatible
 syntax on
+colorscheme elflord
 
 "Tabs and indents
 set tabstop=4 
